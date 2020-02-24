@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Programmierung KA_02_2020", "SQL Programmierung KA_02_2020\SQL Programmierung KA_02_2020.ssmssqlproj", "{8741F0BF-6A77-4817-A94B-5B78D7884F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8741F0BF-6A77-4817-A94B-5B78D7884F0F}.Default|Default.ActiveCfg = Default
+		{951232DA-98C9-4F43-835D-BD3FC8027739}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35BD3E8A-1596-43A1-B66C-8C6BFD2CF2BA}
+	EndGlobalSection
+EndGlobal
